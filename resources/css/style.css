@@ -1,0 +1,77 @@
+
+
+html {
+    background-color: black;
+    text-align: center;
+    
+    
+}
+
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    position: relative;
+    top:-60px;
+}
+
+h6 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+    margin: 25px 50px 75px 50px;
+    
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 10px;
+    position:relative ;
+    top: -30px;
+
+
+}
+
+#grey_text {
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    position: relative;
+    top:-90px;
+}
+
+#phone {
+    line-height: 60px;
+    position:relative;
+    top: -75px;
+   
+}
+
+#logo {
+    text-align: right;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+
+video {
+    position: relative;
+    top: -20px;
+}
+
+#bottom {
+    position: relative;
+    top: -115px;
+}
+
+#bottom_download {
+    position: relative;
+    top: -95px;
+    margin-bottom: -130px;
+    
+}
